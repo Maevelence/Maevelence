@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Maevelence
 - 👀 I’m interested in Web-programming
-- 🌱 I’m currently learning Node.js, Git, Mongo
-- 💞️ I’m looking to collaborate on 1 kyu on CodeWars
-- 📫 How to reach me 1 kyu?
+- 🌱 I’m currently learning Laravel,React, Docker
 
 <!---
 Maevelence/Maevelence is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
